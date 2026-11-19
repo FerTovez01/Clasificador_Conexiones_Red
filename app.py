@@ -36,6 +36,12 @@ h1, h2, h3, p, label {
     border: none;
     padding: 12px 24px;
 }
+
+
+[data-testid="stAlert"] p {
+    color: #1e293b !important;
+}
+
 </style>
 """, unsafe_allow_html=True)
 
